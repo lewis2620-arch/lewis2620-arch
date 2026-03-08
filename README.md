@@ -116,4 +116,4 @@ Currently building **[AI Accelerate](https://agentic-builders.lovable.app/)** â€
 *All systems built workflow-first. All agents governed from day one.*  
 *If you're building agentic AI in a high-stakes environment â€” let's talk.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lewis-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/davidlewis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lewis-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/davidjustinlewis)
